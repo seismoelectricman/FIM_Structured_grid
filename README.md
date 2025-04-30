@@ -7,3 +7,7 @@
 If we need to do some modifications on this code, we should first understand what is within this code.
 
 Then, we can fit it in solving the attenuation operator t* equation.
+
+Alternatively, you can also vist the following links:
+
+https://github.com/SCIInstitute/StructuredEikonal
